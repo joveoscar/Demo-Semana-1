@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">S2Demo1</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_share">Compartir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_share">Te comparto la informacion de %1$S %2$S</string>
+    <string name="title_fragment_list">Listado</string>
+    <string name="title_fragment_flags">Banderas</string>
+    <string name="title_activity_country_detail">CountryDetailActivity</string>
+	<string name="msg_about">Esto fue desarrollado para el curso de Telescopio</string>
+	<string-array name="drawer_options">
+	    <item>Informacion de pais</item>
+	    <item>Acerca de</item>
+	</string-array>
+</resources>
